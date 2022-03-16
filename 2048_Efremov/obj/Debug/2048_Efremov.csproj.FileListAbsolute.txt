@@ -1,0 +1,6 @@
+C:\Users\Nember\Desktop\ЯКСЭ\СРС\семёнова\2 sem\trpo\prac\MiniGame2048-C-sharp-master\Physics\obj\Debug\2048_Efremov.csproj.AssemblyReference.cache
+C:\Users\Nember\Desktop\ЯКСЭ\СРС\семёнова\2 sem\trpo\prac\MiniGame2048-C-sharp-master\Physics\obj\Debug\2048_Efremov.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nember\Desktop\ЯКСЭ\СРС\семёнова\2 sem\trpo\prac\MiniGame2048-C-sharp-master\Physics\obj\Debug\_Efremov.Form1.resources
+C:\Users\Nember\Desktop\ЯКСЭ\СРС\семёнова\2 sem\trpo\prac\MiniGame2048-C-sharp-master\Physics\obj\Debug\Physics.Properties.Resources.resources
+C:\Users\Nember\Desktop\ЯКСЭ\СРС\семёнова\2 sem\trpo\prac\MiniGame2048-C-sharp-master\Physics\obj\Debug\2048_Efremov.csproj.GenerateResource.cache
+C:\Users\Nember\Desktop\ЯКСЭ\СРС\семёнова\2 sem\trpo\prac\MiniGame2048-C-sharp-master\Physics\obj\Debug\2048_Efremov.csproj.CoreCompileInputs.cache
